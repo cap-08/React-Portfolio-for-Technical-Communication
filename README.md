@@ -41,6 +41,8 @@ https://cap-08.github.io/React-Portfolio-for-Technical-Communication/
 ## Author
 
 **Jacob Antony**
+---
+
 Technical Communication (English) VIT VELLORE
 
 ---
