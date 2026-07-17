@@ -1,16 +1,47 @@
-# React + Vite
+# React Portfolio — Technical Communication Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a personal portfolio website built with React for my **English (Technical Communication) course project**. The site is designed to present my work, skills, and background in a clear, well-organized, and professional format — applying the principles of audience-focused, accessible communication covered in class.
 
-Currently, two official plugins are available:
+**Live site:** https://cap-08.github.io/React-Portfolio-for-Technical-Communication/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## About this project
 
-## React Compiler
+This portfolio was created as an assignment for my English / Technical Communication class. The goal of the assignment was to practice presenting information — about myself, my skills, and my work and which talks about the different types of communications using a website as the medium instead of a traditional paper.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Sections
 
-## Expanding the ESLint configuration
+- **About** — a short introduction and background
+- **Essay** — talks about 5C's of communication
+- **Collage(Visual)** — a showcase of business communication visual communication
+- **Speech** — a vocal expression on my thoughts of leadership
+- **AI Tools Used** - includes places where AI was used
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+## Built with
+
+- [React](https://react.dev/)
+- Deployed with [GitHub Pages](https://pages.github.com/)
+
+## Running locally
+
+```bash
+git clone https://github.com/cap-08/React-Portfolio-for-Technical-Communication.git
+cd React-Portfolio-for-Technical-Communication
+npm install
+npm start
+```
+
+The site will be available at `http://localhost:3000`.
+
+## Deployment
+
+This project is deployed using GitHub Pages and is live at:
+https://cap-08.github.io/React-Portfolio-for-Technical-Communication/
+
+## Author
+
+**Jacob Antony**
+Technical Communication (English) VIT VELLORE
+
+---
+*Built for an English course assignment focused on technical and professional communication.*
